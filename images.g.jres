@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQIAAgAAACAgBgACIiAIICIiCiI8Y0AgNiNKADwgCAAABAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sonic"
+    },
+    "song1": {
+        "data": "00fa000408010105001c000f0a006400f4010a00000400000000000000000000000000000000020c0000000400012704000800012c",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
